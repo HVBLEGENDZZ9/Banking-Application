@@ -172,7 +172,7 @@ I used ThunderBird for email configurations. I created email addresses on Local 
 
 ## Database Structure
 
-![Uygulama Ekran Görüntüsü](databasestructure.png)
+![Uygulama Ekran Görüntüsü](images/databasestructure.png)
 
 ## Distribution
 
@@ -203,7 +203,7 @@ To run the project, update the following information in your application.propert
 
 Postman
 
-![Uygulama Ekran Görüntüsü](Screenshot_1.png)
+![Uygulama Ekran Görüntüsü](images/Screenshot_1.png)
 
 ## Technologies
 
@@ -217,13 +217,11 @@ Java Spring usage, Enterprise architecture, Database architecture, Session archi
 
 ---
 
-# Online Banking Full Stack Project Frontent Readme File
+# Online Banking Full Stack Project Frontend
 
-This is a full-stack project. You can access the backend details of the project from the link below. At this point, we will focus on the frontend.
+This is a full-stack project. At this point, we will focus on the frontend.
 
-Java Spring Online Banking Rest Api [Java Spring Rest API](https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
-
-The application is a Frontend project prepared for the Online Banking Rest API. React and Redux are used in the frontend of the application. The project is a single-page application, and I have fully leveraged the benefits provided by Redux. Every component you will see in the project is connected to the Redux Store. When the state of one component changes, all components that need to update their state automatically do so, providing users with real-time information.
+The application Frontend project prepared for the Online Banking Rest API. React and Redux are used in the frontend of the application. The project is a single-page application, and I have fully leveraged the benefits provided by Redux. Every component you will see in the project is connected to the Redux Store. When the state of one component changes, all components that need to update their state automatically do so, providing users with real-time information.
 
 Users can register, log in, view their account history, open new accounts, make transfers between accounts, deposit money, withdraw money, and make payments. Additionally, a self-updating chart has been prepared for users to view their account flows. In short, the components are constantly in communication with the backend, ensuring seamless interaction.
 

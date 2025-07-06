@@ -8,7 +8,6 @@ This project is a Java Spring Boot Rest API project. MySql is used as the databa
 - Email control and verification mechanisms are also available.
 - Rest API
 - It adheres to SOLID principles and design patterns.
-- Tüm platformlara destek
 
 ## API Usage
 
